@@ -1,35 +1,14 @@
-## Portfolio
+## Selection of Data Science and Machine Learning projects I have worked on
 
 ---
+### Offensive language detection with BERT (DEEP NLP)
+Offensive language detection is an automated NLP Task of determining the existence of offensive language in a piece of text. In this project, I will be using a PyTorch classifier built on a pre-trained BERT model to detect offensive language in text
 
-### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[![](https://img.shields.io/badge/Transformers-white?logo=HuggingFace)](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[View in Colab](https://colab.research.google.com/drive/1zt4tApB2feVKZad9rLWVJ2-6f06764sA)
 
 ---
 
 
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
