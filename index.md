@@ -8,7 +8,7 @@ This forecasting model was build on real world data from prosumers in Estonia
 
 [![](https://img.shields.io/badge/Scikit%20Learn-white?logo=HuggingFace)](#)  [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Time%20Series%20Forecasting-white?logo=HuggingFace)](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Pandas-white?logo=Python)](#) [![](https://img.shields.io/badge/NumPy-white?logo=Jupyter)](#)
 
-<img src="images/Enefit1.png?raw=true" alt="graph" width="500"/> <img src="images/Enefit2.png?raw=true" alt="graph" width="500"/>
+<img src="images/Enefit1.png?raw=true" alt="graph" width="500" height="300"/> <img src="images/Enefit2.png?raw=true" alt="graph" width="500" height="300"/>
 
 [View Challenge](https://www.kaggle.com/competitions/predict-energy-behavior-of-prosumers/overview)
 
