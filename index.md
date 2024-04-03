@@ -27,7 +27,7 @@ Offensive language detection is an automated NLP Task of determining the existen
 ### Youtube Question Answering with Sentence Transformers
 Question answering is the unique ability of ML models to retreive specifc piece of information from a larger pool of information based a user given prompt. In this project I am building a Youtube question answering system that can answer question based on the content of a Youtube video using sentence transformers
 
-<img src="images/ytq?raw=true" alt="graph" width="500" height="300"/> 
+<img src="images/ytqa.png?raw=true" alt="graph" width="500" height="300"/> 
 
 [![](https://img.shields.io/badge/Neural%20Networks-pale?logo=neutralinojs)](#)  [![](https://img.shields.io/badge/Transformers-white?logo=AppSignal)](#) [![](https://img.shields.io/badge/Python-lightblue?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Gradio-orange?logo=AppSingal)](#)
 
