@@ -10,7 +10,7 @@ This forecasting model was build on real world data from prosumers in Estonia
 
 <img src="images/Enefit1.png?raw=true" alt="graph" width="500" height="300"/> <img src="images/Enefit2.png?raw=true" alt="graph" width="500" height="300"/>
 
-[View in Colab]([https://www.kaggle.com/competitions/predict-energy-behavior-of-prosumers/overview](https://colab.research.google.com/drive/19M45iUxrqWCMAiJMuEuoBrarjiQs_aeS#scrollTo=bsEl28uwChh9))
+[View in Colab]([https://colab.research.google.com/drive/19M45iUxrqWCMAiJMuEuoBrarjiQs_aeS])
 
 ---
 ### Offensive language detection with BERT (Deep NLP)
